@@ -30,10 +30,10 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 #   $\color{#844654}{⋆˚࿔}$ $\color{#F4C96F}{CATEGORIES!}$   $\color{#844654}{⋆˚࿔}$
 
 
- $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{online}$ $\color{#844654}{warriors:}$ <a href="https://github.com/ramudaa">ramudaa</a> ; <a href="https://github.com/vatrinyasin">vatrinyasin</a> ; <a href="https://github.com/ENUMAELlSH">ENUMAELlSH</a> ; <a href="https://github.com/W1ERDC0RE">W1ERDC0RE</a> ; <a href="https://github.com/waveriy">waveriy</a>
+ $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{online}$ $\color{#844654}{warriors:}$ <a href="https://github.com/ramudaa">ramudaa</a> ; <a href="https://github.com/vatrinyasin">vatrinyasin</a> ; <a href="https://github.com/ENUMAELlSH">ENUMAELlSH</a> ; <a href="https://github.com/W1ERDC0RE">W1ERDC0RE</a> ; <a href="https://github.com/waveriy">waveriy</a> $\color{#F4C96F}{CATEGORY}$ $\color{#F4C96F}{CLOSED!}$
 
 
- $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{rainbow}$ $\color{#F4C96F}{ponies:}$ 
+ $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{rainbow}$ $\color{#F4C96F}{ponies:}$ <a href="https://github.com/TrueEyeCoreMedkit">TrueEyeCoreMedkit</a> ; <a href="https://github.com/meowgariita">meowgariita</a>
 
 
  $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{prettiest}$ $\color{#844654}{ponies:}$ 
