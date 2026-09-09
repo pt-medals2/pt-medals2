@@ -103,8 +103,6 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    
 
 
-
-   $\color{#FE0DDB}{꩜}$ $\color{#844654}{Infected's}$  $\color{#844654}{(Regretevator)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/1PWNn00bz">1PWNn00bz</a>
    
 
 
@@ -121,8 +119,7 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    $\color{#7d5e41}{꩜}$ $\color{#844654}{Castiel's}$  $\color{#844654}{(Supernatural)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/DEADP0ET">DEADP0ET</a>
    
    $\color{#5C4530}{꩜}$ $\color{#844654}{Dean}$   $\color{#844654}{Winchester's}$ $\color{#844654}{(Supernatural)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/abookslines">abookslines</a>
-
-   $\color{#2F2524}{꩜}$ $\color{#844654}{Jean's}$ $\color{#844654}{(Guts}$ $\color{#844654}{And}$ $\color{#844654}{Blackpowder)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/Matt-1337">Matt-1337</a> 
+   
 
    $\color{#451D12}{꩜}$ $\color{#844654}{Hyuna's}$  $\color{#844654}{(ALNST)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/PorcelainDolls">PorcelainDolls</a>
 
